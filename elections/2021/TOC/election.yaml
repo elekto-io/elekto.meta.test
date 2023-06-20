@@ -1,7 +1,7 @@
 name: 2021 Steering Committee Election
 organization: Kubernetes
 start_datetime: 2023-03-14 00:00:01
-end_datetime: 2023-06-04 23:59:00
+end_datetime: 2023-08-04 23:59:00
 no_winners: 4
 allow_no_opinion: True
 delete_after: True
