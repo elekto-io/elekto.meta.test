@@ -1,7 +1,7 @@
 name: Select The Name of the Application
 organization: CommunityBridge
-start_datetime: 2022-07-02 00:00:00
-end_datetime: 2022-07-28 23:59:00
+start_datetime: 2023-07-02 00:00:00
+end_datetime: 2023-07-28 23:59:00
 no_winners: 1
 allow_no_opinion: True
 delete_after: False
@@ -13,4 +13,4 @@ election_officers:
   - 007vedant
 eligibility: Contributors to the elections software project are eligible.
 exception_description: If you're not a contributor and want to vote on this anyway, file for an exception.
-exceptions_due: 2022-08-19 23:59:00
+exceptions_due: 2023-08-19 23:59:00
